@@ -1,0 +1,8 @@
+﻿  Udemy_LinearAlgebra.cpp
+D:\Company\Lab\Udemy_LinearAlgebra\Udemy_LinearAlgebra.cpp(207,50): warning C4244: '引數': 將 'T' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              T=double
+          ]
+D:\Company\Lab\Udemy_LinearAlgebra\Udemy_LinearAlgebra.cpp(220,41): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Udemy_LinearAlgebra.vcxproj -> D:\Company\Lab\Udemy_LinearAlgebra\Debug\Udemy_LinearAlgebra.exe
